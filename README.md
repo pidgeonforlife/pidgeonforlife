@@ -7,7 +7,7 @@
 ### :book: Currently learning .. 
 - Object Oriented Porgramming, Java
 - Procedural Programming, C
-- Relational Datbase and SQL
+- Relational Datbaase and SQL
 
 ### :bowing_man: Hope to talk to you soon! 감사합니다
 
