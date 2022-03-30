@@ -5,7 +5,7 @@
 - Ethnicity: Korean :kr:	
 
 ### :book: Currently learning .. 
-- Object Oriented Porgramming, Java
+- Object Oriented Programming, Java
 - Procedural Programming, C
 - Relational Database and SQL
 
