@@ -9,6 +9,11 @@
 - Procedural Programming, C
 - Relational Database and SQL
 
+### :trophy: Achievements ..
+- YHacks 2022 - Audience Favorite Award - YouKraine
+- BCHacks 2022 - Best Diversirty in Tech - Diversify
+- HackNYU 2022 - Most Outrageous Hack - PeerOrgan
+
 ### :bowing_man: Hope to talk to you soon! 감사합니다
 
 
