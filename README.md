@@ -13,6 +13,7 @@
 - YHacks 2022 - Audience Favorite Award - YouKraine
 - BCHacks 2022 - Best Diversity in Tech - Diversify
 - HackNYU 2022 - Most Outrageous Hack - PeerOrgan
+- MetroHacks 2022 - 3rd Place Overall - RescuePoo
 
 ### :bowing_man: Hope to talk to you soon! 감사합니다
 
